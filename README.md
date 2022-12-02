@@ -38,7 +38,7 @@ Todos los MARTES y JUEVES a partir de las 19:30 hora peninsular de españa. Pued
 
 ¿Quieres saber a qué hora es tu país? ¿O estar atento/a a si hay cambios? Únete al [DISCORD](https://discord.com/invite/SVBExkcGyV?fbclid=IwAR02ojS9ErZfGhl3DQjEZHoX92LX8WWj98JYLVAn7OgMXVrrtf86kfYtvhE) de la comunidad donde estarán los eventos actualizados y en mi [INSTAGRAM](https://www.instagram.com/aristidevs/) estarán las cuentas atrás.
 
-**PRÓXIMA CLASE ⇨ [Apuntarse al evento]()**
+**PRÓXIMA CLASE ⇨ [Apuntarse al evento](https://discord.gg/k5PjNY9s?event=1048171073323159552)**
 
 ---
 
