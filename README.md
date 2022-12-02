@@ -60,6 +60,7 @@ Este proyecto es totalmente GRATUITO por lo que puedes aportar tu grano de arena
 - Dale a FAV al proyecto (Star)
 - Comparte el tuit original para que llegue a más gente
 - Sígueme en mis [redes sociales](https://aristi.dev)
+- Nomíname a [GITHUB STAR](https://stars.github.com/nominate/)
 
 *WORK IN PROGRESS*
 
