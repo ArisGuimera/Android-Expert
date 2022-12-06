@@ -13,11 +13,12 @@ El curso se irá haciendo en DIRECTO en [TWITCH](https://www.twitch.tv/aristidev
 El temario (irá creciendo) temario que daremos será: 
 <br />
 - ¿Qué es Kotlin?
-- Instalar IntelliJ IDEA para Kotlin
+- Instalar Android Studio para Kotlin
 - Hello World en Kotlin
-- Variables en Kotlin
+- Valores y variables en Kotlin
 - Trabajando con variables en Kotlin
 - Funciones en Kotlin
+- Funciones con parámetros de entrada y salida
 - Instrucciones if-else en Kotlin
 - Expresión when en Kotlin
 - Arrays en Kotlin
@@ -38,7 +39,7 @@ Todos los MARTES y JUEVES a partir de las 19:30 hora peninsular de españa. Pued
 
 ¿Quieres saber a qué hora es tu país? ¿O estar atento/a a si hay cambios? Únete al [DISCORD](https://discord.com/invite/SVBExkcGyV?fbclid=IwAR02ojS9ErZfGhl3DQjEZHoX92LX8WWj98JYLVAn7OgMXVrrtf86kfYtvhE) de la comunidad donde estarán los eventos actualizados y en mi [INSTAGRAM](https://www.instagram.com/aristidevs/) estarán las cuentas atrás.
 
-**PRÓXIMA CLASE ⇨ [Apuntarse al evento](https://discord.gg/k5PjNY9s?event=1048171073323159552)**
+**PRÓXIMA CLASE ⇨ [Apuntarse al evento](https://discord.gg/MVGSA9Zz?event=1049774172894662657)**
 
 ---
 
