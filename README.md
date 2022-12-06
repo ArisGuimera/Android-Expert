@@ -1,4 +1,4 @@
-# Curso Android - Zero to Hero
+# [Curso] ANDROID MASTER
 
 <p align="center">
 <img src="https://i.imgur.com/v1yEnt8.jpeg" style="height: 75%; width:75%;"/></center> </p>
