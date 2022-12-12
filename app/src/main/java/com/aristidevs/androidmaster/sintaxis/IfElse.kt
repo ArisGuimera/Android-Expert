@@ -1,4 +1,4 @@
-package com.aristidevs.androidmaster
+package com.aristidevs.androidmaster.sintaxis
 
 fun main() {
     ifMultipleOR()
