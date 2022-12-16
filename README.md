@@ -26,6 +26,7 @@ El temario (irá creciendo) temario que daremos será:
 - Listas en Kotlin
 - Configurando Android Studio para Kotlin
 - Desarrollando nuestra primera APP
+- Navegación de pantallas
 - *(EN DESARROLLO)*
 
 > El contenido se irá actualizando respecto a las peticiones de los directos
