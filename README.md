@@ -27,6 +27,9 @@ El temario (irá creciendo) temario que daremos será:
 - Configurando Android Studio para Kotlin
 - Desarrollando nuestra primera APP
 - Navegación de pantallas
+- Crear un menú para navegar entre apps
+- App IMC
+- Data class
 - *(EN DESARROLLO)*
 
 > El contenido se irá actualizando respecto a las peticiones de los directos
@@ -41,7 +44,7 @@ Todos los MARTES y JUEVES a partir de las 19:30 hora peninsular de españa. Pued
 
 ¿Quieres saber a qué hora es tu país? ¿O estar atento/a a si hay cambios? Únete al [DISCORD](https://discord.com/invite/SVBExkcGyV?fbclid=IwAR02ojS9ErZfGhl3DQjEZHoX92LX8WWj98JYLVAn7OgMXVrrtf86kfYtvhE) de la comunidad donde estarán los eventos actualizados y en mi [INSTAGRAM](https://www.instagram.com/aristidevs/) estarán las cuentas atrás.
 
-**PRÓXIMA CLASE ⇨ [Apuntarse al evento](https://discord.gg/nha3rUv3?event=1051957224886505502)**
+**PRÓXIMA CLASE ⇨ [Apuntarse al evento](https://discord.gg/SP46B89M?event=1054854868835237888)**
 
 ---
 
