@@ -27,9 +27,9 @@ El temario (irá creciendo) temario que daremos será:
 - Configurando Android Studio para Kotlin
 - Desarrollando nuestra primera APP
 - Navegación de pantallas
-- Crear un menú para navegar entre apps
-- App IMC
 - Data class
+- Crear un menú para navegar entre apps
+- Diseñar y programar app completa IMC
 - *(EN DESARROLLO)*
 
 > El contenido se irá actualizando respecto a las peticiones de los directos
