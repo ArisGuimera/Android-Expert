@@ -36,6 +36,16 @@ El temario (irá creciendo) temario que daremos será:
 
 ---
 
+## Aplicaciones desarrolladas durante el curso.
+
+### Calculador IMC.
+
+<p align="center">
+<img src="https://i.imgur.com/F6rSzsI.png" style="height: 50%; width:50%;"/>
+<img src="https://i.imgur.com/lH1NBas.png" style="height: 50%; width:50%;"/>
+</p>
+---
+
 ## Fechas y horarios.
 
 Todos los MARTES y JUEVES a partir de las 19:30 hora peninsular de españa. Puede ser modificado así que atento/a a mis redes sociales.
