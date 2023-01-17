@@ -13,6 +13,14 @@
         android:theme="@style/Theme.AndroidMaster"
         tools:targetApi="31">
         <activity
+            android:name=".todoapp.TodoActivity"
+            android:theme="@style/Theme.TODOApp"
+            android:exported="false">
+            <meta-data
+                android:name="android.app.lib_name"
+                android:value="" />
+        </activity>
+        <activity
             android:name=".imccalculator.ResultIMCActivity"
             android:exported="false">
             <meta-data
