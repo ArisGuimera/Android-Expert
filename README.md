@@ -30,6 +30,10 @@ El temario (irá creciendo) temario que daremos será:
 - Data class
 - Crear un menú para navegar entre apps
 - Diseñar y programar app completa IMC
+- Diseñar y programar app completa TODO
+  - Recyclerview
+  - Dialog
+  - Sealed class
 - *(EN DESARROLLO)*
 
 > El contenido se irá actualizando respecto a las peticiones de los directos
