@@ -30,10 +30,14 @@ El temario (irá creciendo) temario que daremos será:
 - Data class
 - Crear un menú para navegar entre apps
 - Diseñar y programar app completa IMC
+  - Cambios entre pantallas
+  - Diseño de UI
+  - Listeners y clicks
 - Diseñar y programar app completa TODO
   - Recyclerview
   - Dialog
   - Sealed class
+  - Funciones lambdas
 - *(EN DESARROLLO)*
 
 > El contenido se irá actualizando respecto a las peticiones de los directos
@@ -44,9 +48,15 @@ El temario (irá creciendo) temario que daremos será:
 
 ### Calculador IMC.
 
-|                              Pantalla principal                              |                                  Resultado                                   |
+|                               Pantalla principal                               |                                   Resultado                                    |
+|:------------------------------------------------------------------------------:|:------------------------------------------------------------------------------:|
+|  <img src="https://i.imgur.com/F6rSzsI.png" style="height: 50%; width:50%;"/>  |  <img src="https://i.imgur.com/lH1NBas.png" style="height: 50%; width:50%;"/>  |
+
+### Organizador de tareas.
+
+|                              Pantalla principal                              |                               Añadiendo tareas                               |
 |:----------------------------------------------------------------------------:|:----------------------------------------------------------------------------:|
-| <img src="https://i.imgur.com/F6rSzsI.png" style="height: 50%; width:50%;"/> | <img src="https://i.imgur.com/lH1NBas.png" style="height: 50%; width:50%;"/> |
+| <img src="https://i.imgur.com/uvVh4Q9.png" style="height: 50%; width:50%;"/> | <img src="https://i.imgur.com/GhHuj6c.png" style="height: 50%; width:50%;"/> |
 
 ---
 
