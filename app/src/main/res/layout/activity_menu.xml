@@ -25,4 +25,10 @@
         android:layout_height="wrap_content"
         android:text="TODO App"/>
 
+    <Button
+        android:id="@+id/btnSuperhero"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="SuperHero App"/>
+
 </LinearLayout>
