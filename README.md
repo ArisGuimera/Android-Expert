@@ -31,12 +31,20 @@ El temario (irá creciendo) temario que daremos será:
 - Crear un menú para navegar entre apps
 - Diseñar y programar app completa IMC
   - Cambios entre pantallas
+  - Gestión y creación de colores
   - Diseño de UI
+  - CardView
+  - RangeSlider
+  - Compatibilidad con múltiples idiomas (Strings)
   - Listeners y clicks
 - Diseñar y programar app completa TODO
   - Recyclerview
   - Dialog
   - Sealed class
+  - Funciones lambdas
+- Diseñar y programar una buscador de Superhéroes
+  - SearchView
+  - Consumo de APIs con Retrofit
   - Funciones lambdas
 - *(EN DESARROLLO)*
 
@@ -57,6 +65,12 @@ El temario (irá creciendo) temario que daremos será:
 |                              Pantalla principal                              |                               Añadiendo tareas                               |
 |:----------------------------------------------------------------------------:|:----------------------------------------------------------------------------:|
 | <img src="https://i.imgur.com/uvVh4Q9.png" style="height: 50%; width:50%;"/> | <img src="https://i.imgur.com/GhHuj6c.png" style="height: 50%; width:50%;"/> |
+
+### Buscador de superhéroes.
+
+|                              Pantalla principal                              |                               Añadiendo tareas                               |
+|:----------------------------------------------------------------------------:|:----------------------------------------------------------------------------:|
+| <img src="https://i.imgur.com/XNwTHjy.png" style="height: 50%; width:50%;"/> | <img src="https://i.imgur.com/xYOssJf.png" style="height: 50%; width:50%;"/> |
 
 ---
 
@@ -80,6 +94,8 @@ Todos los MARTES a partir de las 19:30 hora peninsular de españa. Puede ser mod
 * **¿Habrán ejercicios?**
 	* Al final de la clase se pondrán ejercicios que se resolverán al inicio de la clase siguiente.
 
+* **¿Y si tengo dudas?**
+    * Tienes un canal exclusivo para dudas del curso en el [DISCORD](https://discord.com/invite/SVBExkcGyV?fbclid=IwAR02ojS9ErZfGhl3DQjEZHoX92LX8WWj98JYLVAn7OgMXVrrtf86kfYtvhE) llamado **🖥-twitch-curso-android**.
 
 ---
 
