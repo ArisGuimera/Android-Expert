@@ -10,7 +10,7 @@ Aprende a programar sin conocimientos previos. Empezaremos desde lo más básico
 
 El curso se irá haciendo en DIRECTO en [TWITCH](https://www.twitch.tv/aristidevs), donde además de explicar resolveré dudas y haremos ejercicios. Una vez esté el contenido grabado y editado se irá subiendo a [YOUTUBE](https://www.youtube.com/@aristidevs). 
 
-El temario (irá creciendo) temario que daremos será: 
+El temario del curso será: 
 <br />
 - ¿Qué es Kotlin?
 - Instalar Android Studio para Kotlin
@@ -46,7 +46,12 @@ El temario (irá creciendo) temario que daremos será:
   - SearchView
   - Consumo de APIs con Retrofit
   - Funciones lambdas
-- *(EN DESARROLLO)*
+  - Recyclerview
+- Diseñar y programar una pantalla de ajustes con persistencia de datos
+  - Persistencia de datos con DataStore
+  - Switch y RangeSlider
+  - Modo noche
+
 
 > El contenido se irá actualizando respecto a las peticiones de los directos
 
@@ -72,17 +77,11 @@ El temario (irá creciendo) temario que daremos será:
 |:----------------------------------------------------------------------------:|:----------------------------------------------------------------------------:|
 | <img src="https://i.imgur.com/XNwTHjy.png" style="height: 50%; width:50%;"/> | <img src="https://i.imgur.com/xYOssJf.png" style="height: 50%; width:50%;"/> |
 
----
+### Pantalla de ajustes.
 
-## Fechas y horarios.
-
-Todos los MARTES a partir de las 19:30 hora peninsular de españa. Puede ser modificado así que atento/a a mis redes sociales.
-
-### Apúntate
-
-¿Quieres saber a qué hora es tu país? ¿O estar atento/a a si hay cambios? Únete al [DISCORD](https://discord.com/invite/SVBExkcGyV?fbclid=IwAR02ojS9ErZfGhl3DQjEZHoX92LX8WWj98JYLVAn7OgMXVrrtf86kfYtvhE) de la comunidad donde estarán los eventos actualizados y en mi [INSTAGRAM](https://www.instagram.com/aristidevs/) estarán las cuentas atrás.
-
-**PRÓXIMA CLASE ⇨ [Apuntarse al evento](https://discord.gg/Apsgw76W?event=1064491687033966602)**
+|                              Pantalla principal                              |                               Añadiendo tareas                               |
+|:----------------------------------------------------------------------------:|:----------------------------------------------------------------------------:|
+| <img src="https://i.imgur.com/HnYQIew.png" style="height: 50%; width:50%;"/> | <img src="https://i.imgur.com/p1Yn1gt.png" style="height: 50%; width:50%;"/> |
 
 ---
 
