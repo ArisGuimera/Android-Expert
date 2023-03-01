@@ -24,10 +24,8 @@ El temario del curso será:
 - Ejercicios If-else/When
 - Arrays en Kotlin
 - Listas en Kotlin
-- Configurando Android Studio para Kotlin
 - Desarrollando nuestra primera APP
-- Navegación de pantallas
-- Data class
+  - Navegación de pantallas
 - Crear un menú para navegar entre apps
 - Diseñar y programar app completa IMC
   - Cambios entre pantallas
