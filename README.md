@@ -40,12 +40,12 @@ El temario del curso será:
   - Dialog
   - Sealed class
   - Funciones lambdas
-- [Diseñar y programar una buscador de Superhéroes]()
+- [Diseñar y programar una buscador de Superhéroes](https://youtu.be/ndqIqh6joGA?t=9)
   - SearchView
   - Consumo de APIs con Retrofit
   - Funciones lambdas
   - Recyclerview
-- [Diseñar y programar una pantalla de ajustes con persistencia de datos]()
+- [Diseñar y programar una pantalla de ajustes con persistencia de datos](https://youtu.be/ndqIqh6joGA?t=10446)
   - Persistencia de datos con DataStore
   - Switch y RangeSlider
   - Modo noche
