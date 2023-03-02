@@ -12,22 +12,22 @@ El curso se irá haciendo en DIRECTO en [TWITCH](https://www.twitch.tv/aristidev
 
 El temario del curso será: 
 <br />
-- ¿Qué es Kotlin?
-- Instalar Android Studio para Kotlin
-- Valores y variables en Kotlin
-- Trabajando con variables en Kotlin
-- Funciones en Kotlin
-- Funciones con parámetros de entrada y salida
-- Instrucciones if-else en Kotlin
-- Expresión when en Kotlin
-- Nulabilidad
-- Ejercicios If-else/When
-- Arrays en Kotlin
-- Listas en Kotlin
-- Desarrollando nuestra primera APP
+- [¿Qué es Kotlin?](https://youtu.be/vJapzH_46a8)
+- [Instalar Android Studio para Kotlin](https://youtu.be/vJapzH_46a8?t=200)
+- [Valores y variables en Kotlin](https://youtu.be/vJapzH_46a8?t=1097)
+- [Trabajando con variables en Kotlin](https://youtu.be/vJapzH_46a8?t=2275)
+- [Funciones en Kotlin](https://youtu.be/vJapzH_46a8?t=3128)
+- [Funciones con parámetros de entrada y salida](https://youtu.be/vJapzH_46a8?t=3699)
+- [Instrucciones if-else en Kotlin](https://youtu.be/vJapzH_46a8?t=4428)
+- [Expresión when en Kotlin](https://youtu.be/vJapzH_46a8?t=6334)
+- [Nulabilidad](https://youtu.be/vJapzH_46a8?t=7666)
+- [Ejercicios If-else/When](https://youtu.be/vJapzH_46a8?t=8097)
+- [Arrays en Kotlin](https://youtu.be/vJapzH_46a8?t=9141)
+- [Listas en Kotlin](https://youtu.be/vJapzH_46a8?t=10165)
+- [Desarrollando nuestra primera APP](https://youtu.be/vJapzH_46a8?t=11200)
   - Navegación de pantallas
-- Crear un menú para navegar entre apps
-- Diseñar y programar app completa IMC
+- [Crear un menú para navegar entre apps](https://youtu.be/vJapzH_46a8?t=14874)
+- [Diseñar y programar app completa IMC](https://youtu.be/vJapzH_46a8?t=15773)
   - Cambios entre pantallas
   - Gestión y creación de colores
   - Diseño de UI
@@ -35,23 +35,21 @@ El temario del curso será:
   - RangeSlider
   - Compatibilidad con múltiples idiomas (Strings)
   - Listeners y clicks
-- Diseñar y programar app completa TODO
+- [Diseñar y programar app completa TODO](https://youtu.be/vJapzH_46a8?t=23805)
   - Recyclerview
   - Dialog
   - Sealed class
   - Funciones lambdas
-- Diseñar y programar una buscador de Superhéroes
+- [Diseñar y programar una buscador de Superhéroes]()
   - SearchView
   - Consumo de APIs con Retrofit
   - Funciones lambdas
   - Recyclerview
-- Diseñar y programar una pantalla de ajustes con persistencia de datos
+- [Diseñar y programar una pantalla de ajustes con persistencia de datos]()
   - Persistencia de datos con DataStore
   - Switch y RangeSlider
   - Modo noche
 
-
-> El contenido se irá actualizando respecto a las peticiones de los directos
 
 ---
 
