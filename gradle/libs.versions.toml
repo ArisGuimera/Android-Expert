@@ -11,6 +11,7 @@ composeBom = "2026.02.01"
 lyfecycle = "2.10.0"
 navigation3 = "1.1.5"
 kotlinxSerialization = "1.9.0"
+datastore = "1.2.1"
 
 [libraries]
 androidx-core-ktx = { group = "androidx.core", name = "core-ktx", version.ref = "coreKtx" }
@@ -31,6 +32,7 @@ androidx-lifecycle-viewmodel-compose = {group = "androidx.lifecycle", name = "li
 androidx-navigation3-runtime = {module = "androidx.navigation3:navigation3-runtime", version.ref = "navigation3"}
 androidx-navigation3-ui = {module = "androidx.navigation3:navigation3-ui", version.ref = "navigation3"}
 kotlinx-serialization-core = {module = "org.jetbrains.kotlinx:kotlinx-serialization-core", version.ref = "kotlinxSerialization"}
+androidx-datastore-preferences = { module = "androidx.datastore:datastore-preferences", version.ref = "datastore" }
 
 
 [plugins]

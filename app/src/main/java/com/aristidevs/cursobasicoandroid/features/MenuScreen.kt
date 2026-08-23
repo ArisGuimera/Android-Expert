@@ -17,7 +17,7 @@ import androidx.compose.ui.unit.dp
 
 @OptIn(ExperimentalMaterial3Api::class)
 @Composable
-fun MenuScreen(onImcSelected: () -> Unit) {
+fun MenuScreen(onImcSelected: () -> Unit, onSettingsSelected: () -> Unit) {
 
     Scaffold(Modifier.fillMaxSize(), topBar = {
         TopAppBar(title = { Text("AristiDevs App") })
@@ -35,8 +35,8 @@ fun MenuScreen(onImcSelected: () -> Unit) {
 
             Spacer(Modifier.height(24.dp))
 
-            Button(onClick = {}) {
-                Text("IMC Calculator")
+            Button(onClick = { onSettingsSelected() }) {
+                Text("Settings")
             }
         }
     }
