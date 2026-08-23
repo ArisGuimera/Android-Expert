@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "name": "Luna",
+    "breed": "Golden Retriever",
+    "age": 3,
+    "description": "Cariñosa, tranquila y muy sociable.",
+    "image": "images/luna.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Max",
+    "breed": "Labrador Retriever",
+    "age": 5,
+    "description": "Muy juguetón y siempre preparado para salir a pasear.",
+    "image": "images/max.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Nala",
+    "breed": "Border Collie",
+    "age": 2,
+    "description": "Inteligente, activa y aprende muy rápido.",
+    "image": "images/nala.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Toby",
+    "breed": "Beagle",
+    "age": 4,
+    "description": "Curioso, alegre y con muchísima energía.",
+    "image": "images/toby.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Kira",
+    "breed": "Shiba Inu",
+    "age": 3,
+    "description": "Independiente, observadora y muy fiel.",
+    "image": "images/kira.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Rocky",
+    "breed": "Boxer",
+    "age": 6,
+    "description": "Enérgico, protector y muy cariñoso con su familia.",
+    "image": "images/rocky.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Coco",
+    "breed": "Pomerania",
+    "age": 2,
+    "description": "Pequeño, simpático y con mucha personalidad.",
+    "image": "images/coco.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Milo",
+    "breed": "Cocker Spaniel",
+    "age": 4,
+    "description": "Dulce, sociable y siempre buscando compañía.",
+    "image": "images/milo.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Lola",
+    "breed": "French Bulldog",
+    "age": 5,
+    "description": "Tranquila, divertida y amante de las siestas.",
+    "image": "images/lola.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Bruno",
+    "breed": "German Shepherd",
+    "age": 6,
+    "description": "Leal, atento y muy protector.",
+    "image": "images/bruno.jpg"
+  }
+]
