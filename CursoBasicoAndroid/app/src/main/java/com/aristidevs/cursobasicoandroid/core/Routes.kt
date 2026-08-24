@@ -14,3 +14,5 @@ data class IMCResult(val result: Float) : NavKey
 
 @Serializable
 data object Settings : NavKey
+@Serializable
+data object Dogs : NavKey
