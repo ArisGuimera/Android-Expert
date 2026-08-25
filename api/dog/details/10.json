@@ -1,0 +1,11 @@
+{
+  "id": 10,
+  "name": "Bruno",
+  "breed": "German Shepherd",
+  "age": 6,
+  "description": "Leal, seguro y muy atento a todo lo que sucede a su alrededor.",
+  "image": "images/bruno.jpg",
+  "weight": "36 kg",
+  "origin": "Alemania",
+  "temperament": "Leal · Inteligente · Protector"
+}

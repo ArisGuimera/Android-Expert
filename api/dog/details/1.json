@@ -1,0 +1,11 @@
+{
+  "id": 1,
+  "name": "Luna",
+  "breed": "Golden Retriever",
+  "age": 3,
+  "description": "Cariñosa, tranquila y muy sociable.",
+  "image": "images/luna.jpg",
+  "weight": "28 kg",
+  "origin": "Escocia",
+  "temperament": "Amigable · Inteligente · Activa"
+}

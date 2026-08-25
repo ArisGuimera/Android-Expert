@@ -1,0 +1,11 @@
+{
+  "id": 2,
+  "name": "Max",
+  "breed": "Labrador Retriever",
+  "age": 5,
+  "description": "Muy juguetón y siempre preparado para salir a pasear.",
+  "image": "images/max.jpg",
+  "weight": "31 kg",
+  "origin": "Canadá",
+  "temperament": "Sociable · Juguetón · Fiel"
+}

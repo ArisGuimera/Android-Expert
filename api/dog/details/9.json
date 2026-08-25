@@ -1,0 +1,11 @@
+{
+  "id": 9,
+  "name": "Lola",
+  "breed": "French Bulldog",
+  "age": 5,
+  "description": "Tranquila, divertida y muy apegada a su familia.",
+  "image": "images/lola.jpg",
+  "weight": "11 kg",
+  "origin": "Francia",
+  "temperament": "Tranquila · Afectuosa · Divertida"
+}
