@@ -1,0 +1,11 @@
+{
+  "id": 5,
+  "name": "Kira",
+  "breed": "Shiba Inu",
+  "age": 3,
+  "description": "Independiente, tranquila y muy observadora.",
+  "image": "images/kira.jpg",
+  "weight": "10 kg",
+  "origin": "Japón",
+  "temperament": "Independiente · Alerta · Leal"
+}

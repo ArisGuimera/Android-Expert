@@ -1,0 +1,11 @@
+{
+  "id": 7,
+  "name": "Coco",
+  "breed": "Pomerania",
+  "age": 2,
+  "description": "Pequeño, vivaz y siempre pendiente de todo lo que ocurre.",
+  "image": "images/coco.jpg",
+  "weight": "3 kg",
+  "origin": "Europa Central",
+  "temperament": "Vivaz · Curioso · Cariñoso"
+}

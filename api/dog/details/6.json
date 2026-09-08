@@ -1,0 +1,11 @@
+{
+  "id": 6,
+  "name": "Rocky",
+  "breed": "Boxer",
+  "age": 6,
+  "description": "Enérgico, protector y muy cariñoso con su familia.",
+  "image": "images/rocky.jpg",
+  "weight": "30 kg",
+  "origin": "Alemania",
+  "temperament": "Protector · Juguetón · Enérgico"
+}

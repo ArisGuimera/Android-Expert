@@ -1,0 +1,11 @@
+{
+  "id": 4,
+  "name": "Toby",
+  "breed": "Beagle",
+  "age": 4,
+  "description": "Curioso, alegre y con un gran sentido del olfato.",
+  "image": "images/toby.jpg",
+  "weight": "13 kg",
+  "origin": "Inglaterra",
+  "temperament": "Curioso · Alegre · Sociable"
+}

@@ -1,0 +1,11 @@
+{
+  "id": 8,
+  "name": "Milo",
+  "breed": "Cocker Spaniel",
+  "age": 4,
+  "description": "Dulce, alegre y muy cercano a las personas.",
+  "image": "images/milo.jpg",
+  "weight": "14 kg",
+  "origin": "Reino Unido",
+  "temperament": "Dulce · Alegre · Sociable"
+}

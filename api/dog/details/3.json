@@ -1,0 +1,11 @@
+{
+  "id": 3,
+  "name": "Nala",
+  "breed": "Border Collie",
+  "age": 2,
+  "description": "Muy inteligente, curiosa y llena de energía.",
+  "image": "images/nala.jpg",
+  "weight": "18 kg",
+  "origin": "Reino Unido",
+  "temperament": "Inteligente · Activa · Atenta"
+}
