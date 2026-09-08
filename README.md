@@ -15,7 +15,6 @@ En este curso completo aprenderás desde los fundamentos de Kotlin hasta crear a
 
 ### Kotlin desde cero
 
-<br />
 - [00:00:00 — Introducción](https://youtu.be/i1PNVWd_dTY)
 - [00:17:47 — Primer programa: `main`, `print` y comentarios](https://youtu.be/i1PNVWd_dTY?t=1067)
 - [00:25:06 — Variables: `val`, `var`, inferencia y tipos](https://youtu.be/i1PNVWd_dTY?t=1506)
