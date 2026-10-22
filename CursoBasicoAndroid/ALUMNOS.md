@@ -43,3 +43,4 @@ Add Nombre Apellido
 - AristiDevs Prueba
 - YerayYas
 - Deivid Lomas
+- Diego Mañas
