@@ -42,4 +42,5 @@ Add Nombre Apellido
 - Aris Guimera
 - AristiDevs Prueba
 - YerayYas
+- Deivid Lomas
 - Diego Mañas
