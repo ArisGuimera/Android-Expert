@@ -44,3 +44,4 @@ Add Nombre Apellido
 - YerayYas
 - Deivid Lomas
 - Diego Mañas
+- Alejandro Gomez
