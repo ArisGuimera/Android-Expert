@@ -44,5 +44,4 @@ Add Nombre Apellido
 - YerayYas
 - Deivid Lomas
 - Diego Mañas
-- Luis Estrada
-- César Feijoo
+- Alejandro Gomez
